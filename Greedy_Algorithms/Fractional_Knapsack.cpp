@@ -47,3 +47,6 @@ int main() {
     cout << "Maximum Value in knapsack: " << final_value << "\n";
     return 0;
 }
+
+// Time Complexity : O(nlogn)
+// main time taking is sorting
