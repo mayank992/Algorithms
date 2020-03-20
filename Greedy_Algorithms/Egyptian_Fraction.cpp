@@ -1,4 +1,4 @@
-// Egyption Fraction Problem
+// Egyptian Fraction Problem
 #include<bits/stdc++.h>
 
 using namespace std;
